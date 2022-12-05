@@ -1,0 +1,4 @@
+1:mikel:badiola:mikelB:1234:0
+2:aitor:azkarate:aitorA:2323:1
+2:aitor:azkarate:aitorA:2323:1
+2:aitor:azkarate:aitorA:2323:1
